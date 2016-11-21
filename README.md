@@ -3,6 +3,8 @@
 This package allows you to quickly prepare your pull request by driving you directly
 on your pull request creation page of your current Git project and by pre-defining source/target branches.
 
+![Package preview](https://raw.githubusercontent.com/eko/atom-pull-request/master/resources/preview.gif)
+
 ## Installation
 
 Using the Atom Package Manager:
