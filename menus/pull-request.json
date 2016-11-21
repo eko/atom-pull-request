@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open pull-request",
+        "command": "pull-request:open"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Pull Request",
+          "submenu": [
+            {
+              "label": "Open",
+              "command": "pull-request:open"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

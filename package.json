@@ -1,0 +1,19 @@
+{
+  "name": "pull-request",
+  "main": "./lib/pull-request",
+  "version": "0.0.1",
+  "description": "A plugin to make a pull request of your current Git project using Github or Gitlab.",
+  "repository": "https://github.com/eko/atom-pull-request",
+  "license": "MIT",
+  "keywords": [
+      "pull", "request", "pull request", "git", "github", "gitlab", "open", "quick"
+  ],
+  "activationCommands": {
+    "atom-workspace": "pull-request:open"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
