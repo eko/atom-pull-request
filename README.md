@@ -1,5 +1,7 @@
 # Pull Request (Atom package)
 
+[![Build Status](https://secure.travis-ci.org/eko/atom-pull-request.png?branch=master)](http://travis-ci.org/eko/atom-pull-request)
+
 This package allows you to quickly prepare your pull request by driving you directly
 on your pull request creation page of your current Git project and by pre-defining source/target branches.
 
@@ -10,7 +12,7 @@ on your pull request creation page of your current Git project and by pre-defini
 Using the Atom Package Manager:
 
 ```
-$ apm install activate-power-mode
+$ apm install pull-request
 ```
 
 Or Settings ➔ Install ➔ Search for `pull-request`.
